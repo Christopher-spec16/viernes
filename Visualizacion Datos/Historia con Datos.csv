@@ -1,0 +1,31 @@
+﻿emision_id,fecha_emision,programa,genero,plataforma_principal,dia_semana,hora_inicio,duracion_min,publico_objetivo,audiencia_tv_millones,reproducciones_digitales_miles,interacciones_redes_miles,comentarios_miles,sentimiento_positivo_pct,inversion_promocion_millones_cop,evento_especial,tendencia_semanal
+EM001,2026-09-05,Reto Extremo,Realidad,TV y streaming,Viernes,20:00,90,Jóvenes y adultos,2.4,680,142,35,82,95,No,Base
+EM002,2026-09-12,Reto Extremo,Realidad,TV y streaming,Viernes,20:00,90,Jóvenes y adultos,2.7,800,167,41,80,103,Semifinal,Sube
+EM003,2026-09-19,Reto Extremo,Realidad,TV y streaming,Viernes,20:00,90,Jóvenes y adultos,3.3,1070,235,55,84,103,Final en vivo,Sube
+EM004,2026-09-05,Cocina en Casa,Gastronomía,TV,Sábado,11:00,60,Familias,1.6,240,48,11,91,38,No,Base
+EM005,2026-09-12,Cocina en Casa,Gastronomía,TV,Sábado,11:00,60,Familias,1.7,265,53,12,89,46,Chef invitado,Sube
+EM006,2026-09-19,Cocina en Casa,Gastronomía,TV,Sábado,11:00,60,Familias,1.6,258,54,12,93,38,No,Sube
+EM007,2026-09-05,Noticias 360,Informativo,TV y web,Lunes,19:00,45,Adultos,3.1,310,54,22,58,63,Debate local,Base
+EM008,2026-09-12,Noticias 360,Informativo,TV y web,Lunes,19:00,45,Adultos,2.9,370,64,26,56,55,No,Sube
+EM009,2026-09-19,Noticias 360,Informativo,TV y web,Lunes,19:00,45,Adultos,3.5,450,82,32,60,63,Elecciones regionales,Sube
+EM010,2026-09-05,Talento Urbano,Música,TV y streaming,Domingo,20:30,75,Jóvenes,2,720,188,41,86,96,Audiciones,Base
+EM011,2026-09-12,Talento Urbano,Música,TV y streaming,Domingo,20:30,75,Jóvenes,2.4,900,235,51,84,96,Batallas,Sube
+EM012,2026-09-19,Talento Urbano,Música,TV y streaming,Domingo,20:30,75,Jóvenes,2.7,1030,282,59,88,96,Final,Sube
+EM013,2026-09-05,Planeta Vivo,Documental,Streaming,Miércoles,18:00,50,Familias y estudiantes,0.8,510,72,14,95,40,Océanos,Base
+EM014,2026-09-12,Planeta Vivo,Documental,Streaming,Miércoles,18:00,50,Familias y estudiantes,0.85,585,83,16,93,40,Bosques,Sube
+EM015,2026-09-19,Planeta Vivo,Documental,Streaming,Miércoles,18:00,50,Familias y estudiantes,0.9,655,97,18,97,40,Especial climático,Sube
+EM016,2026-09-05,La Casa del Misterio,Drama,Streaming,Jueves,22:00,55,Adultos jóvenes,1.2,860,205,63,74,80,Estreno,Base
+EM017,2026-09-12,La Casa del Misterio,Drama,Streaming,Jueves,22:00,55,Adultos jóvenes,1.4,990,236,73,72,80,Revelación,Sube
+EM018,2026-09-19,La Casa del Misterio,Drama,Streaming,Jueves,22:00,55,Adultos jóvenes,1.55,1120,280,82,76,80,Final de temporada,Sube
+EM019,2026-09-05,Fútbol al Día,Deportes,TV y web,Domingo,17:00,60,Público general,2.7,430,130,38,79,88,Fecha regular,Base
+EM020,2026-09-12,Fútbol al Día,Deportes,TV y web,Domingo,17:00,60,Público general,2.4,390,118,34,77,88,Sin partido local,Baja
+EM021,2026-09-19,Fútbol al Día,Deportes,TV y web,Domingo,17:00,60,Público general,3.8,780,248,69,81,88,Final del campeonato,Sube
+EM022,2026-09-05,Conexión Gamer,Tecnología,Streaming,Martes,19:30,80,Jóvenes,0.5,980,260,72,88,60,No,Base
+EM023,2026-09-12,Conexión Gamer,Tecnología,Streaming,Martes,19:30,80,Jóvenes,0.55,1120,297,82,86,68,Torneo invitado,Sube
+EM024,2026-09-19,Conexión Gamer,Tecnología,Streaming,Martes,19:30,80,Jóvenes,0.6,1200,334,88,90,68,Lanzamiento de videojuego,Sube
+EM025,2026-09-05,Mañanas con Todos,Variedades,TV,Lunes,09:00,120,Adultos y familias,1.9,150,29,7,84,42,No,Base
+EM026,2026-09-12,Mañanas con Todos,Variedades,TV,Lunes,09:00,120,Adultos y familias,1.9,162,31,8,82,50,Entrevista exclusiva,Sube
+EM027,2026-09-19,Mañanas con Todos,Variedades,TV,Lunes,09:00,120,Adultos y familias,1.8,156,32,7,86,42,No,Sube
+EM028,2026-09-05,Ciencia en Minutos,Educativo,TV y streaming,Sábado,15:00,30,Estudiantes,0.7,620,96,19,93,36,Espacio,Base
+EM029,2026-09-12,Ciencia en Minutos,Educativo,TV y streaming,Sábado,15:00,30,Estudiantes,0.85,710,110,22,91,36,Robótica,Sube
+EM030,2026-09-19,Ciencia en Minutos,Educativo,TV y streaming,Sábado,15:00,30,Estudiantes,0.9,790,128,24,95,36,Experimento en vivo,Sube

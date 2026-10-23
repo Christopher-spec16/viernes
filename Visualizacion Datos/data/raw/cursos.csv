@@ -1,0 +1,13 @@
+﻿curso_id,curso,categoria,modalidad,duracion_horas,precio
+C01,Python básico,Programación,Presencial,32,260000
+C02,Análisis con pandas,Datos,Virtual,36,320000
+C03,Visualización de datos,Datos,Híbrida,30,300000
+C04,SQL para análisis,Datos,Virtual,28,280000
+C05,Automatización con Python,Programación,Híbrida,40,360000
+C06,Desarrollo web con Flask,Programación,Presencial,42,390000
+C07,Fundamentos de redes,Redes,Presencial,32,250000
+C08,Ciberseguridad inicial,Redes,Virtual,30,310000
+C09,Diseño de interfaces,Diseño,Híbrida,28,290000
+C10,Experiencia de usuario,Diseño,Virtual,24,270000
+C11,Excel para analítica,Datos,Presencial,20,210000
+C12,Introducción a IA,Programación,Virtual,26,340000

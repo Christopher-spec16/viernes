@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Informe visual de matrículas, notas y aprobación del centro de formación.">
+  <title>Informe académico | Visualización de datos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero-content">
+      <p class="eyebrow">INFORME DE VISUALIZACIÓN · DATOS SINTÉTICOS</p>
+      <h1>Una mirada a la experiencia académica</h1>
+      <p class="intro">¿Qué cursos fortalecer y dónde acompañar a los estudiantes?</p>
+      <p class="hero-note">Este informe separa los resultados observados de las posibles acciones. Los datos muestran asociaciones; no demuestran por sí solos sus causas.</p>
+      <a class="button button-light" href="#hallazgos">Explorar hallazgos</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="metrics" aria-label="Resumen del conjunto de datos">
+      <article class="metric-card">
+        <span class="metric-value">360</span>
+        <span class="metric-label">inscripciones analizadas</span>
+      </article>
+      <article class="metric-card">
+        <span class="metric-value">69</span>
+        <span class="metric-label">matrículas en el curso líder</span>
+      </article>
+      <article class="metric-card">
+        <span class="metric-value">3,60 / 5</span>
+        <span class="metric-label">mediana de las notas</span>
+      </article>
+      <article class="metric-card">
+        <span class="metric-value">0,76</span>
+        <span class="metric-label">asociación entre progreso y nota</span>
+      </article>
+    </section>
+
+    <section id="hallazgos" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">RESULTADOS</p>
+        <h2>Qué muestran los datos</h2>
+        <p>El periodo observado va de enero a septiembre de 2026. Cada conclusión describe el conjunto sintético entregado.</p>
+      </div>
+
+      <div class="chart-grid">
+        <article class="chart-card">
+          <img src="../graficos/01_top_5_cursos.png" alt="Barras horizontales con los cinco cursos de mayor matrícula.">
+          <div class="card-copy">
+            <h3>La demanda se concentra en pocos cursos</h3>
+            <p><strong>Hallazgo:</strong> Visualización de datos reúne 69 matrículas; Análisis con pandas le sigue con 52.</p>
+            <p><strong>Recomendación:</strong> revisar cupos y disponibilidad docente en los cursos con mayor demanda.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/02_matriculas_mensuales.png" alt="Línea con la cantidad de matrículas de enero a septiembre de 2026.">
+          <div class="card-copy">
+            <h3>Las matrículas varían a lo largo del periodo</h3>
+            <p><strong>Hallazgo:</strong> marzo alcanza el máximo observado, con 59 matrículas; julio registra 22.</p>
+            <p><strong>Recomendación:</strong> planificar la oferta con los registros de cada periodo y actualizar la serie cuando haya nuevos datos.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/03_distribuciones_nota_progreso.png" alt="Histogramas de notas y porcentajes de progreso.">
+          <div class="card-copy">
+            <h3>Notas y progreso tienen distribuciones distintas</h3>
+            <p><strong>Hallazgo:</strong> la mediana de nota es 3,60 sobre 5 y la mediana de progreso es 75,15 %.</p>
+            <p><strong>Recomendación:</strong> revisar en conjunto ambos indicadores antes de decidir apoyos académicos.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/04_notas_por_modalidad.png" alt="Diagramas de caja que comparan las notas entre modalidades.">
+          <div class="card-copy">
+            <h3>La mediana más alta aparece en modalidad híbrida</h3>
+            <p><strong>Hallazgo:</strong> la mediana híbrida es 3,8; la virtual, 3,7; y la presencial, 3,4.</p>
+            <p><strong>Recomendación:</strong> comparar tamaños de grupo y características de los cursos; la diferencia observada no prueba un efecto de la modalidad.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/05_progreso_vs_nota.png" alt="Gráfico de dispersión del progreso frente a la nota, coloreado por estado.">
+          <div class="card-copy">
+            <h3>Progreso y nota muestran asociación positiva</h3>
+            <p><strong>Hallazgo:</strong> la correlación de Pearson es 0,76 en las 360 inscripciones.</p>
+            <p><strong>Recomendación:</strong> usar ambos indicadores para orientar revisiones; una correlación no establece causalidad.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/06_matriz_correlaciones.png" alt="Mapa de calor con correlaciones entre seis variables numéricas.">
+          <div class="card-copy">
+            <h3>Las asociaciones resumen relaciones, no explicaciones</h3>
+            <p><strong>Hallazgo:</strong> entre las variables numéricas revisadas, progreso y nota presentan la asociación lineal de mayor magnitud.</p>
+            <p><strong>Recomendación:</strong> complementar estas comparaciones con contexto académico antes de atribuir causas.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/07_aprobacion_curso_modalidad.png" alt="Barras agrupadas con tasas de aprobación por curso y modalidad.">
+          <div class="card-copy">
+            <h3>Excel para analítica merece una revisión</h3>
+            <p><strong>Hallazgo:</strong> su tasa de aprobación observada es la menor, 37,5 %, calculada con la definición del conjunto de datos.</p>
+            <p><strong>Recomendación:</strong> revisar con el equipo académico los resultados y necesidades de acompañamiento de ese curso.</p>
+          </div>
+        </article>
+
+        <article class="chart-card">
+          <img src="../graficos/08_revision_notas_atipicas.png" alt="Diagrama de caja para identificar posibles notas atípicas mediante la regla IQR.">
+          <div class="card-copy">
+            <h3>Los valores atípicos son una señal para comprobar</h3>
+            <p><strong>Hallazgo:</strong> la regla del rango intercuartílico identifica 3 posibles casos entre 360 registros.</p>
+            <p><strong>Recomendación:</strong> verificar esos registros; ser atípico no significa necesariamente que el dato sea incorrecto.</p>
+          </div>
+        </article>
+
+        <article class="chart-card chart-card-wide">
+          <img src="../graficos/09_correccion_eje_truncado.png" alt="Comparación entre un eje truncado que exagera diferencias y una escala corregida desde cero.">
+          <div class="card-copy">
+            <h3>Corregir la escala evita exagerar diferencias</h3>
+            <p><strong>Hallazgo:</strong> al recortar el eje de las barras, diferencias pequeñas parecen mucho mayores.</p>
+            <p><strong>Recomendación:</strong> comparar las notas con un eje que comience en cero y conservar la escala completa de 0 a 5.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section interactive-section">
+      <div class="section-heading">
+        <p class="eyebrow">EXPLORACIÓN</p>
+        <h2>Gráfico interactivo</h2>
+        <p>Pasa el cursor sobre los puntos para consultar detalles. Usa la leyenda para explorar los estados.</p>
+      </div>
+      <div class="interactive-frame">
+        <iframe
+          src="../graficos/reporte_interactivo.html"
+          title="Gráfico interactivo de progreso y nota por estudiante"
+          loading="lazy">
+        </iframe>
+      </div>
+      <a class="text-link" href="../graficos/reporte_interactivo.html" target="_blank" rel="noopener">Abrir el gráfico interactivo por separado</a>
+    </section>
+
+    <section class="recommendations section">
+      <p class="eyebrow">CIERRE</p>
+      <h2>Recomendaciones para revisar</h2>
+      <ol>
+        <li>Contrastar la demanda de los cursos líderes con los cupos y la disponibilidad de docentes.</li>
+        <li>Revisar los resultados de Excel para analítica junto con el equipo académico, sin asumir causas a partir de la tasa por sí sola.</li>
+        <li>Validar los tres casos señalados por el rango intercuartílico antes de interpretarlos como errores.</li>
+      </ol>
+      <p class="note">Los datos son sintéticos y describen el conjunto entregado. Estas observaciones no deben generalizarse a estudiantes reales.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-content">
+      <span>Informe de visualización de datos</span>
+      <span>Fuente: dataset_analitico.csv · Datos sintéticos</span>
+    </div>
+  </footer>
+</body>
+</html>

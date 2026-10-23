@@ -1,0 +1,361 @@
+﻿inscripcion_id,estudiante_id,curso_id,fecha,progreso,nota,estado,satisfaccion,nombre,edad,ciudad,programa,nivel_socioeconomico,fecha_ingreso,curso,categoria,modalidad,duracion_horas,precio,mes,aprobado,valor_hora,ranking_nota,grupo_edad
+I0001,E062,C08,2026-05-02,76.8,2.8,Finalizado,3,Sara Meza,21,Envigado,Software,3,2025-07-17,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-05,False,10333.33,23,19-22
+I0002,E063,C04,2026-08-15,100.0,5.0,Finalizado,3,Luis Cardona,24,Medellín,Diseño,3,2024-08-06,SQL para análisis,Datos,Virtual,28,280000,2026-08,True,10000.0,1,23-26
+I0003,E096,C01,2026-06-22,87.3,3.2,Finalizado,4,Luis Giraldo,29,Envigado,Datos,4,2025-03-13,Python básico,Programación,Presencial,32,260000,2026-06,True,8125.0,19,27-40
+I0004,E094,C02,2026-02-11,42.8,2.7,Retirado,3,Diego Cano,17,Bello,Software,3,2025-04-26,Análisis con pandas,Datos,Virtual,36,320000,2026-02,False,8888.89,24,16-18
+I0005,E054,C03,2026-01-11,89.5,4.0,Activo,4,Nataly Meza,21,Bello,Diseño,2,2025-01-08,Visualización de datos,Datos,Híbrida,30,300000,2026-01,True,10000.0,11,19-22
+I0006,E008,C12,2026-05-23,56.8,2.6,Finalizado,4,Samuel García,24,Medellín,Redes,3,2024-01-15,Introducción a IA,Programación,Virtual,26,340000,2026-05,False,13076.92,25,23-26
+I0007,E010,C05,2026-02-20,85.4,3.8,Activo,4,Samuel Urrutia,27,Medellín,Software,1,2024-01-15,Automatización con Python,Programación,Híbrida,40,360000,2026-02,True,9000.0,13,27-40
+I0008,E112,C01,2026-01-18,68.0,3.4,Activo,4,Carlos López,22,Envigado,Diseño,3,2025-03-16,Python básico,Programación,Presencial,32,260000,2026-01,False,8125.0,17,19-22
+I0009,E112,C04,2026-06-02,46.0,2.7,Activo,3,Carlos López,22,Envigado,Diseño,3,2025-03-16,SQL para análisis,Datos,Virtual,28,280000,2026-06,False,10000.0,24,19-22
+I0010,E091,C05,2026-04-21,73.3,4.1,Finalizado,4,Carlos Sánchez,30,Sabaneta,Datos,3,2025-01-28,Automatización con Python,Programación,Híbrida,40,360000,2026-04,True,9000.0,10,27-40
+I0011,E083,C08,2026-09-09,86.3,4.7,Activo,4,Carlos Meza,19,Sabaneta,Datos,5,2026-01-27,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-09,True,10333.33,4,19-22
+I0012,E040,C03,2026-07-14,96.5,4.4,Finalizado,5,Luis Rojas,22,Bello,Software,2,2025-05-16,Visualización de datos,Datos,Híbrida,30,300000,2026-07,True,10000.0,7,19-22
+I0013,E104,C03,2026-03-15,100.0,4.0,Finalizado,4,Camila Giraldo,21,Medellín,Datos,5,2026-05-03,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,11,19-22
+I0014,E038,C08,2026-03-08,46.7,2.7,Finalizado,4,Carlos García,16,Bello,Redes,1,2025-09-06,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-03,False,10333.33,24,16-18
+I0015,E106,C07,2026-02-24,26.3,2.0,Retirado,4,Luis López,22,Medellín,Software,2,2025-03-05,Fundamentos de redes,Redes,Presencial,32,250000,2026-02,False,7812.5,31,19-22
+I0016,E084,C07,2026-01-16,51.5,2.6,Activo,3,Mateo Sánchez,24,Medellín,Software,3,2024-02-05,Fundamentos de redes,Redes,Presencial,32,250000,2026-01,False,7812.5,25,23-26
+I0017,E104,C02,2026-05-12,96.6,4.9,Finalizado,5,Camila Giraldo,21,Medellín,Datos,5,2026-05-03,Análisis con pandas,Datos,Virtual,36,320000,2026-05,True,8888.89,2,19-22
+I0018,E042,C03,2026-06-10,29.9,2.4,Activo,3,Camila Betancur,18,Bello,Software,2,2025-02-01,Visualización de datos,Datos,Híbrida,30,300000,2026-06,False,10000.0,27,16-18
+I0019,E057,C02,2026-01-11,73.0,3.8,Finalizado,3,Ana López,28,Medellín,Datos,2,2025-01-28,Análisis con pandas,Datos,Virtual,36,320000,2026-01,True,8888.89,13,27-40
+I0020,E076,C05,2026-03-21,54.6,3.0,Activo,3,Diego López,16,Itagüí,Diseño,2,2025-07-28,Automatización con Python,Programación,Híbrida,40,360000,2026-03,False,9000.0,21,16-18
+I0021,E089,C03,2026-03-02,100.0,4.3,Finalizado,5,Laura García,18,Bello,Redes,3,2024-10-13,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,8,16-18
+I0022,E113,C06,2026-01-10,60.0,3.5,Activo,3,Nataly Montoya,28,Bello,Datos,2,2024-09-12,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-01,False,9285.71,16,27-40
+I0023,E017,C06,2026-04-12,76.5,3.4,Activo,3,Luis Montoya,24,Sabaneta,Datos,3,2025-10-30,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-04,True,9285.71,17,23-26
+I0024,E108,C01,2026-02-24,31.9,1.5,Activo,3,Samuel Betancur,22,Itagüí,Software,4,2025-10-22,Python básico,Programación,Presencial,32,260000,2026-02,False,8125.0,36,19-22
+I0025,E080,C02,2026-01-08,84.0,4.6,Activo,5,Diego Giraldo,26,Sabaneta,Software,5,2026-03-23,Análisis con pandas,Datos,Virtual,36,320000,2026-01,True,8888.89,5,23-26
+I0026,E011,C03,2026-07-07,47.0,2.6,Retirado,3,Ana Urrutia,20,Medellín,Diseño,5,2024-02-19,Visualización de datos,Datos,Híbrida,30,300000,2026-07,False,10000.0,25,19-22
+I0027,E008,C07,2026-03-12,60.7,3.5,Finalizado,5,Samuel García,24,Medellín,Redes,3,2024-01-15,Fundamentos de redes,Redes,Presencial,32,250000,2026-03,False,7812.5,16,23-26
+I0028,E109,C03,2026-03-19,79.5,4.1,Activo,3,Ana García,16,Bello,Software,1,2024-07-13,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,10,16-18
+I0029,E036,C06,2026-05-14,68.9,3.6,Activo,4,Nataly Cano,23,Sabaneta,Software,3,2025-08-15,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-05,False,9285.71,15,23-26
+I0030,E076,C03,2026-01-11,55.8,3.8,Finalizado,3,Diego López,16,Itagüí,Diseño,2,2025-07-28,Visualización de datos,Datos,Híbrida,30,300000,2026-01,False,10000.0,13,16-18
+I0031,E028,C11,2026-04-23,75.7,4.2,Finalizado,5,Luis García,16,Itagüí,Datos,4,2025-06-17,Excel para analítica,Datos,Presencial,20,210000,2026-04,True,10500.0,9,16-18
+I0032,E108,C02,2026-02-18,59.6,3.1,Activo,3,Samuel Betancur,22,Itagüí,Software,4,2025-10-22,Análisis con pandas,Datos,Virtual,36,320000,2026-02,False,8888.89,20,19-22
+I0033,E098,C04,2026-08-02,64.7,3.5,Retirado,4,Laura Betancur,31,Sabaneta,Redes,4,2024-09-13,SQL para análisis,Datos,Virtual,28,280000,2026-08,False,10000.0,16,27-40
+I0034,E025,C02,2026-04-04,59.8,3.8,Finalizado,4,Ana Cardona,26,Itagüí,Datos,1,2024-02-02,Análisis con pandas,Datos,Virtual,36,320000,2026-04,False,8888.89,13,23-26
+I0035,E035,C06,2026-03-15,83.0,4.1,Finalizado,4,Nataly Cardona,20,Bello,Redes,5,2025-03-13,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-03,True,9285.71,10,19-22
+I0036,E074,C02,2026-07-07,78.9,3.4,Activo,5,Andrés Giraldo,16,Medellín,Software,3,2025-11-29,Análisis con pandas,Datos,Virtual,36,320000,2026-07,True,8888.89,17,16-18
+I0037,E081,C04,2026-08-17,97.7,5.0,Activo,4,Laura Montoya,23,Envigado,Diseño,2,2026-02-10,SQL para análisis,Datos,Virtual,28,280000,2026-08,True,10000.0,1,23-26
+I0038,E078,C03,2026-03-22,86.5,4.0,Finalizado,4,Andrés Sánchez,19,Itagüí,Software,1,2025-08-03,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,11,19-22
+I0039,E066,C11,2026-01-03,79.0,3.6,Activo,4,Sofía Sánchez,25,Itagüí,Software,3,2026-05-24,Excel para analítica,Datos,Presencial,20,210000,2026-01,True,10500.0,15,23-26
+I0040,E007,C11,2026-08-14,53.5,2.9,Retirado,2,María Betancur,22,Bello,Datos,3,2024-09-26,Excel para analítica,Datos,Presencial,20,210000,2026-08,False,10500.0,22,19-22
+I0041,E076,C05,2026-03-17,100.0,3.9,Finalizado,3,Diego López,16,Itagüí,Diseño,2,2025-07-28,Automatización con Python,Programación,Híbrida,40,360000,2026-03,True,9000.0,12,16-18
+I0042,E022,C05,2026-08-20,82.9,3.7,Finalizado,3,Camila Urrutia,16,Bello,Diseño,2,2026-05-24,Automatización con Python,Programación,Híbrida,40,360000,2026-08,True,9000.0,14,16-18
+I0043,E109,C06,2026-01-18,47.6,3.5,Activo,4,Ana García,16,Bello,Software,1,2024-07-13,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-01,False,9285.71,16,16-18
+I0044,E026,C04,2026-03-02,88.7,3.0,Finalizado,4,Juan García,30,Sabaneta,Software,3,2024-08-24,SQL para análisis,Datos,Virtual,28,280000,2026-03,True,10000.0,21,27-40
+I0045,E016,C02,2026-02-01,81.0,4.0,Finalizado,4,Diego Cardona,19,Sabaneta,Diseño,2,2025-08-02,Análisis con pandas,Datos,Virtual,36,320000,2026-02,True,8888.89,11,19-22
+I0046,E048,C10,2026-06-18,52.6,3.3,Activo,4,Samuel Ruiz,20,Bello,Diseño,5,2026-06-04,Experiencia de usuario,Diseño,Virtual,24,270000,2026-06,False,11250.0,18,19-22
+I0047,E040,C06,2026-09-02,91.3,3.7,Finalizado,4,Luis Rojas,22,Bello,Software,2,2025-05-16,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-09,True,9285.71,14,19-22
+I0048,E091,C07,2026-02-14,43.2,2.6,Finalizado,3,Carlos Sánchez,30,Sabaneta,Datos,3,2025-01-28,Fundamentos de redes,Redes,Presencial,32,250000,2026-02,False,7812.5,25,27-40
+I0049,E086,C01,2026-03-21,63.5,3.3,Finalizado,4,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,18,19-22
+I0050,E039,C04,2026-05-03,88.9,3.4,Activo,3,Samuel Giraldo,29,Bello,Redes,3,2024-02-20,SQL para análisis,Datos,Virtual,28,280000,2026-05,True,10000.0,17,27-40
+I0051,E069,C01,2026-03-23,55.8,3.4,Activo,5,María Cano,20,Sabaneta,Datos,4,2025-07-08,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,17,19-22
+I0052,E047,C08,2026-05-19,42.9,3.1,Finalizado,4,Ana Giraldo,24,Itagüí,Redes,3,2024-12-14,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-05,False,10333.33,20,23-26
+I0053,E046,C08,2026-07-06,93.6,3.7,Activo,4,Luis Sánchez,23,Bello,Redes,6,2025-12-22,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-07,True,10333.33,14,23-26
+I0054,E092,C04,2026-09-16,53.7,2.1,Finalizado,3,Mateo Sánchez,22,Envigado,Datos,3,2024-02-15,SQL para análisis,Datos,Virtual,28,280000,2026-09,False,10000.0,30,19-22
+I0055,E027,C03,2026-08-13,99.2,4.6,Finalizado,4,Carlos Giraldo,16,Sabaneta,Redes,2,2025-10-18,Visualización de datos,Datos,Híbrida,30,300000,2026-08,True,10000.0,5,16-18
+I0056,E075,C10,2026-05-12,100.0,5.0,Finalizado,4,Laura García,25,Itagüí,Datos,2,2025-05-27,Experiencia de usuario,Diseño,Virtual,24,270000,2026-05,True,11250.0,1,23-26
+I0057,E097,C12,2026-05-11,67.6,3.4,Retirado,4,María Meza,22,Medellín,Software,2,2025-10-13,Introducción a IA,Programación,Virtual,26,340000,2026-05,False,13076.92,17,19-22
+I0058,E024,C04,2026-03-18,53.8,2.5,Activo,4,Andrés López,17,Bello,Software,3,2024-10-15,SQL para análisis,Datos,Virtual,28,280000,2026-03,False,10000.0,26,16-18
+I0059,E071,C08,2026-03-16,93.3,4.5,Finalizado,5,Mateo Montoya,24,Envigado,Diseño,2,2024-03-09,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-03,True,10333.33,6,23-26
+I0060,E103,C08,2026-07-24,84.9,4.8,Finalizado,5,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-07,True,10333.33,3,23-26
+I0061,E088,C03,2026-06-09,87.1,3.1,Activo,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Visualización de datos,Datos,Híbrida,30,300000,2026-06,True,10000.0,20,27-40
+I0062,E040,C07,2026-01-16,84.3,4.6,Retirado,5,Luis Rojas,22,Bello,Software,2,2025-05-16,Fundamentos de redes,Redes,Presencial,32,250000,2026-01,True,7812.5,5,19-22
+I0063,E104,C04,2026-01-22,87.9,4.0,Finalizado,4,Camila Giraldo,21,Medellín,Datos,5,2026-05-03,SQL para análisis,Datos,Virtual,28,280000,2026-01,True,10000.0,11,19-22
+I0064,E039,C09,2026-06-23,65.7,3.8,Retirado,5,Samuel Giraldo,29,Bello,Redes,3,2024-02-20,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-06,False,10357.14,13,27-40
+I0065,E040,C06,2026-02-13,68.2,4.2,Finalizado,5,Luis Rojas,22,Bello,Software,2,2025-05-16,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,9,19-22
+I0066,E074,C08,2026-01-16,48.9,2.6,Retirado,5,Andrés Giraldo,16,Medellín,Software,3,2025-11-29,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,False,10333.33,25,16-18
+I0067,E006,C02,2026-08-08,79.4,3.5,Finalizado,4,Sofía Rojas,20,Envigado,Redes,3,2025-09-03,Análisis con pandas,Datos,Virtual,36,320000,2026-08,True,8888.89,16,19-22
+I0068,E003,C02,2026-03-13,100.0,4.6,Finalizado,3,Valentina García,31,Medellín,Datos,5,2025-04-21,Análisis con pandas,Datos,Virtual,36,320000,2026-03,True,8888.89,5,27-40
+I0069,E051,C07,2026-02-21,69.4,3.7,Activo,5,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Fundamentos de redes,Redes,Presencial,32,250000,2026-02,False,7812.5,14,16-18
+I0070,E045,C01,2026-07-03,70.2,3.9,Activo,5,Camila Urrutia,22,Itagüí,Datos,4,2024-04-10,Python básico,Programación,Presencial,32,260000,2026-07,True,8125.0,12,19-22
+I0071,E041,C02,2026-06-21,75.4,3.5,Activo,4,Ana López,16,Medellín,Datos,3,2024-05-07,Análisis con pandas,Datos,Virtual,36,320000,2026-06,True,8888.89,16,16-18
+I0072,E024,C02,2026-06-22,67.2,4.1,Finalizado,4,Andrés López,17,Bello,Software,3,2024-10-15,Análisis con pandas,Datos,Virtual,36,320000,2026-06,False,8888.89,10,16-18
+I0073,E033,C04,2026-04-11,80.2,3.9,Finalizado,5,Carlos Ruiz,17,Medellín,Software,5,2025-03-18,SQL para análisis,Datos,Virtual,28,280000,2026-04,True,10000.0,12,16-18
+I0074,E048,C07,2026-02-05,91.8,4.5,Finalizado,4,Samuel Ruiz,20,Bello,Diseño,5,2026-06-04,Fundamentos de redes,Redes,Presencial,32,250000,2026-02,True,7812.5,6,19-22
+I0075,E103,C12,2026-04-07,60.5,3.6,Activo,5,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Introducción a IA,Programación,Virtual,26,340000,2026-04,False,13076.92,15,23-26
+I0076,E084,C01,2026-04-17,32.9,2.5,Retirado,4,Mateo Sánchez,24,Medellín,Software,3,2024-02-05,Python básico,Programación,Presencial,32,260000,2026-04,False,8125.0,26,23-26
+I0077,E083,C04,2026-08-14,100.0,4.1,Finalizado,4,Carlos Meza,19,Sabaneta,Datos,5,2026-01-27,SQL para análisis,Datos,Virtual,28,280000,2026-08,True,10000.0,10,19-22
+I0078,E109,C11,2026-01-17,94.8,3.8,Finalizado,3,Ana García,16,Bello,Software,1,2024-07-13,Excel para analítica,Datos,Presencial,20,210000,2026-01,True,10500.0,13,16-18
+I0079,E043,C12,2026-01-17,69.9,3.3,Finalizado,4,Mateo Cano,21,Medellín,Datos,6,2025-12-30,Introducción a IA,Programación,Virtual,26,340000,2026-01,False,13076.92,18,19-22
+I0080,E043,C11,2026-01-02,87.6,5.0,Activo,5,Mateo Cano,21,Medellín,Datos,6,2025-12-30,Excel para analítica,Datos,Presencial,20,210000,2026-01,True,10500.0,1,19-22
+I0081,E069,C03,2026-05-16,67.5,3.6,Activo,5,María Cano,20,Sabaneta,Datos,4,2025-07-08,Visualización de datos,Datos,Híbrida,30,300000,2026-05,False,10000.0,15,19-22
+I0082,E051,C03,2026-04-21,73.4,3.9,Finalizado,4,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Visualización de datos,Datos,Híbrida,30,300000,2026-04,True,10000.0,12,16-18
+I0083,E021,C03,2026-02-10,83.8,4.2,Finalizado,3,Luis Giraldo,29,Envigado,Datos,3,2025-12-22,Visualización de datos,Datos,Híbrida,30,300000,2026-02,True,10000.0,9,27-40
+I0084,E087,C03,2026-05-08,79.3,3.2,Finalizado,4,Luis Meza,20,Sabaneta,Redes,3,2024-12-10,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,19,19-22
+I0085,E096,C10,2026-09-19,100.0,4.2,Activo,5,Luis Giraldo,29,Envigado,Datos,4,2025-03-13,Experiencia de usuario,Diseño,Virtual,24,270000,2026-09,True,11250.0,9,27-40
+I0086,E049,C02,2026-05-17,86.3,4.6,Activo,4,Samuel Sánchez,23,Medellín,Datos,3,2024-08-17,Análisis con pandas,Datos,Virtual,36,320000,2026-05,True,8888.89,5,23-26
+I0087,E112,C08,2026-02-22,88.0,3.7,Finalizado,4,Carlos López,22,Envigado,Diseño,3,2025-03-16,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-02,True,10333.33,14,19-22
+I0088,E085,C02,2026-03-06,100.0,5.0,Finalizado,3,Andrés Betancur,24,Bello,Redes,2,2025-01-30,Análisis con pandas,Datos,Virtual,36,320000,2026-03,True,8888.89,1,23-26
+I0089,E039,C04,2026-09-20,100.0,3.8,Finalizado,4,Samuel Giraldo,29,Bello,Redes,3,2024-02-20,SQL para análisis,Datos,Virtual,28,280000,2026-09,True,10000.0,13,27-40
+I0090,E074,C02,2026-06-14,63.7,4.1,Activo,4,Andrés Giraldo,16,Medellín,Software,3,2025-11-29,Análisis con pandas,Datos,Virtual,36,320000,2026-06,False,8888.89,10,16-18
+I0091,E022,C02,2026-04-08,91.9,4.2,Finalizado,4,Camila Urrutia,16,Bello,Diseño,2,2026-05-24,Análisis con pandas,Datos,Virtual,36,320000,2026-04,True,8888.89,9,16-18
+I0092,E062,C03,2026-05-21,100.0,4.5,Finalizado,3,Sara Meza,21,Envigado,Software,3,2025-07-17,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,6,19-22
+I0093,E022,C04,2026-09-07,52.3,3.2,Finalizado,4,Camila Urrutia,16,Bello,Diseño,2,2026-05-24,SQL para análisis,Datos,Virtual,28,280000,2026-09,False,10000.0,19,16-18
+I0094,E112,C08,2026-02-10,96.1,4.2,Finalizado,4,Carlos López,22,Envigado,Diseño,3,2025-03-16,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-02,True,10333.33,9,19-22
+I0095,E049,C05,2026-05-22,93.2,3.8,Finalizado,2,Samuel Sánchez,23,Medellín,Datos,3,2024-08-17,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,13,23-26
+I0096,E036,C10,2026-06-19,72.8,4.2,Activo,3,Nataly Cano,23,Sabaneta,Software,3,2025-08-15,Experiencia de usuario,Diseño,Virtual,24,270000,2026-06,True,11250.0,9,23-26
+I0097,E118,C01,2026-03-22,74.0,2.1,Activo,1,Sara García,19,Envigado,Software,3,2025-04-07,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,30,19-22
+I0098,E032,C01,2026-03-19,87.8,3.5,Retirado,4,Juan Montoya,20,Bello,Redes,5,2024-08-24,Python básico,Programación,Presencial,32,260000,2026-03,True,8125.0,16,19-22
+I0099,E035,C09,2026-02-17,100.0,4.4,Finalizado,5,Nataly Cardona,20,Bello,Redes,5,2025-03-13,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-02,True,10357.14,7,19-22
+I0100,E029,C02,2026-04-13,100.0,4.8,Finalizado,4,Carlos Meza,24,Sabaneta,Redes,4,2025-03-12,Análisis con pandas,Datos,Virtual,36,320000,2026-04,True,8888.89,3,23-26
+I0101,E056,C11,2026-03-22,62.3,3.3,Retirado,3,Camila Ruiz,21,Itagüí,Redes,3,2025-06-30,Excel para analítica,Datos,Presencial,20,210000,2026-03,False,10500.0,18,19-22
+I0102,E001,C06,2026-06-15,65.5,4.4,Activo,5,Laura Urrutia,16,Bello,Datos,4,2026-05-02,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-06,False,9285.71,7,16-18
+I0103,E017,C02,2026-07-15,67.8,3.5,Activo,5,Luis Montoya,24,Sabaneta,Datos,3,2025-10-30,Análisis con pandas,Datos,Virtual,36,320000,2026-07,False,8888.89,16,23-26
+I0104,E054,C01,2026-03-20,74.1,2.8,Finalizado,2,Nataly Meza,21,Bello,Diseño,2,2025-01-08,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,23,19-22
+I0105,E094,C11,2026-06-15,79.4,2.7,Activo,4,Diego Cano,17,Bello,Software,3,2025-04-26,Excel para analítica,Datos,Presencial,20,210000,2026-06,False,10500.0,24,16-18
+I0106,E018,C03,2026-03-23,67.1,2.3,Activo,3,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Visualización de datos,Datos,Híbrida,30,300000,2026-03,False,10000.0,28,23-26
+I0107,E029,C05,2026-06-06,82.6,3.5,Activo,3,Carlos Meza,24,Sabaneta,Redes,4,2025-03-12,Automatización con Python,Programación,Híbrida,40,360000,2026-06,True,9000.0,16,23-26
+I0108,E078,C08,2026-06-01,78.8,2.7,Activo,4,Andrés Sánchez,19,Itagüí,Software,1,2025-08-03,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-06,False,10333.33,24,19-22
+I0109,E086,C05,2026-07-24,88.0,3.8,Activo,3,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Automatización con Python,Programación,Híbrida,40,360000,2026-07,True,9000.0,13,19-22
+I0110,E051,C03,2026-03-23,100.0,3.8,Finalizado,4,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,13,16-18
+I0111,E030,C02,2026-03-05,61.7,3.7,Activo,2,Camila García,23,Medellín,Redes,4,2026-05-19,Análisis con pandas,Datos,Virtual,36,320000,2026-03,False,8888.89,14,23-26
+I0112,E016,C05,2026-09-16,89.9,3.6,Activo,3,Diego Cardona,19,Sabaneta,Diseño,2,2025-08-02,Automatización con Python,Programación,Híbrida,40,360000,2026-09,True,9000.0,15,19-22
+I0113,E097,C10,2026-05-17,91.4,4.3,Finalizado,5,María Meza,22,Medellín,Software,2,2025-10-13,Experiencia de usuario,Diseño,Virtual,24,270000,2026-05,True,11250.0,8,19-22
+I0114,E004,C01,2026-09-19,68.6,3.3,Retirado,4,Camila Montoya,20,Bello,Software,4,2025-01-13,Python básico,Programación,Presencial,32,260000,2026-09,False,8125.0,18,19-22
+I0115,E088,C01,2026-05-08,66.5,3.7,Activo,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Python básico,Programación,Presencial,32,260000,2026-05,False,8125.0,14,27-40
+I0116,E119,C01,2026-06-08,92.7,3.3,Finalizado,3,Nataly López,23,Medellín,Redes,3,2024-12-17,Python básico,Programación,Presencial,32,260000,2026-06,True,8125.0,18,23-26
+I0117,E101,C10,2026-04-09,82.6,5.0,Activo,4,Juan Betancur,16,Bello,Datos,5,2025-07-16,Experiencia de usuario,Diseño,Virtual,24,270000,2026-04,True,11250.0,1,16-18
+I0118,E088,C02,2026-08-22,85.4,3.9,Retirado,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Análisis con pandas,Datos,Virtual,36,320000,2026-08,True,8888.89,12,27-40
+I0119,E053,C04,2026-02-04,77.1,4.1,Retirado,3,Laura Meza,16,Envigado,Datos,1,2025-09-07,SQL para análisis,Datos,Virtual,28,280000,2026-02,True,10000.0,10,16-18
+I0120,E114,C12,2026-04-12,70.8,3.1,Finalizado,4,Sofía Urrutia,24,Envigado,Software,3,2025-12-09,Introducción a IA,Programación,Virtual,26,340000,2026-04,True,13076.92,20,23-26
+I0121,E091,C12,2026-08-20,100.0,4.3,Finalizado,4,Carlos Sánchez,30,Sabaneta,Datos,3,2025-01-28,Introducción a IA,Programación,Virtual,26,340000,2026-08,True,13076.92,8,27-40
+I0122,E094,C03,2026-06-20,55.2,2.9,Activo,4,Diego Cano,17,Bello,Software,3,2025-04-26,Visualización de datos,Datos,Híbrida,30,300000,2026-06,False,10000.0,22,16-18
+I0123,E005,C02,2026-06-10,74.7,3.5,Activo,3,Juan García,18,Envigado,Datos,3,2025-01-09,Análisis con pandas,Datos,Virtual,36,320000,2026-06,True,8888.89,16,16-18
+I0124,E116,C04,2026-04-21,84.1,3.9,Finalizado,4,Carlos López,26,Envigado,Redes,1,2026-03-08,SQL para análisis,Datos,Virtual,28,280000,2026-04,True,10000.0,12,23-26
+I0125,E113,C10,2026-05-19,61.6,3.2,Activo,4,Nataly Montoya,28,Bello,Datos,2,2024-09-12,Experiencia de usuario,Diseño,Virtual,24,270000,2026-05,False,11250.0,19,27-40
+I0126,E040,C03,2026-05-13,73.1,4.0,Finalizado,3,Luis Rojas,22,Bello,Software,2,2025-05-16,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,11,19-22
+I0127,E116,C09,2026-04-21,91.3,4.0,Finalizado,3,Carlos López,26,Envigado,Redes,1,2026-03-08,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-04,True,10357.14,11,23-26
+I0128,E096,C12,2026-05-10,55.1,3.0,Retirado,4,Luis Giraldo,29,Envigado,Datos,4,2025-03-13,Introducción a IA,Programación,Virtual,26,340000,2026-05,False,13076.92,21,27-40
+I0129,E076,C03,2026-08-03,70.6,3.4,Activo,3,Diego López,16,Itagüí,Diseño,2,2025-07-28,Visualización de datos,Datos,Híbrida,30,300000,2026-08,True,10000.0,17,16-18
+I0130,E005,C03,2026-01-12,67.0,3.9,Finalizado,4,Juan García,18,Envigado,Datos,3,2025-01-09,Visualización de datos,Datos,Híbrida,30,300000,2026-01,False,10000.0,12,16-18
+I0131,E015,C03,2026-01-21,58.9,3.4,Finalizado,3,Ana Cano,24,Medellín,Datos,4,2024-07-10,Visualización de datos,Datos,Híbrida,30,300000,2026-01,False,10000.0,17,23-26
+I0132,E060,C10,2026-03-04,100.0,4.3,Activo,3,María Ruiz,24,Medellín,Datos,2,2026-06-03,Experiencia de usuario,Diseño,Virtual,24,270000,2026-03,True,11250.0,8,23-26
+I0133,E027,C02,2026-06-24,89.5,4.1,Activo,4,Carlos Giraldo,16,Sabaneta,Redes,2,2025-10-18,Análisis con pandas,Datos,Virtual,36,320000,2026-06,True,8888.89,10,16-18
+I0134,E026,C10,2026-05-20,54.9,2.4,Activo,4,Juan García,30,Sabaneta,Software,3,2024-08-24,Experiencia de usuario,Diseño,Virtual,24,270000,2026-05,False,11250.0,27,27-40
+I0135,E003,C07,2026-06-21,71.2,3.7,Finalizado,4,Valentina García,31,Medellín,Datos,5,2025-04-21,Fundamentos de redes,Redes,Presencial,32,250000,2026-06,True,7812.5,14,27-40
+I0136,E023,C01,2026-03-05,48.0,1.7,Retirado,4,María Cano,17,Envigado,Datos,4,2025-07-06,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,34,16-18
+I0137,E089,C08,2026-04-11,50.6,2.0,Finalizado,4,Laura García,18,Bello,Redes,3,2024-10-13,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-04,False,10333.33,31,16-18
+I0138,E032,C07,2026-05-04,60.0,3.7,Finalizado,3,Juan Montoya,20,Bello,Redes,5,2024-08-24,Fundamentos de redes,Redes,Presencial,32,250000,2026-05,False,7812.5,14,19-22
+I0139,E053,C10,2026-03-17,61.5,3.0,Finalizado,3,Laura Meza,16,Envigado,Datos,1,2025-09-07,Experiencia de usuario,Diseño,Virtual,24,270000,2026-03,False,11250.0,21,16-18
+I0140,E066,C11,2026-06-19,63.2,2.9,Activo,2,Sofía Sánchez,25,Itagüí,Software,3,2026-05-24,Excel para analítica,Datos,Presencial,20,210000,2026-06,False,10500.0,22,23-26
+I0141,E037,C04,2026-07-08,87.0,3.2,Finalizado,3,Mateo López,18,Bello,Diseño,2,2024-05-27,SQL para análisis,Datos,Virtual,28,280000,2026-07,True,10000.0,19,16-18
+I0142,E107,C10,2026-03-21,84.7,2.9,Retirado,4,Ana Ruiz,23,Medellín,Software,3,2026-04-14,Experiencia de usuario,Diseño,Virtual,24,270000,2026-03,False,11250.0,22,23-26
+I0143,E025,C03,2026-05-05,58.1,2.1,Finalizado,2,Ana Cardona,26,Itagüí,Datos,1,2024-02-02,Visualización de datos,Datos,Híbrida,30,300000,2026-05,False,10000.0,30,23-26
+I0144,E106,C09,2026-03-05,90.2,4.1,Finalizado,4,Luis López,22,Medellín,Software,2,2025-03-05,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-03,True,10357.14,10,19-22
+I0145,E043,C11,2026-02-19,93.2,5.0,Finalizado,3,Mateo Cano,21,Medellín,Datos,6,2025-12-30,Excel para analítica,Datos,Presencial,20,210000,2026-02,True,10500.0,1,19-22
+I0146,E106,C06,2026-05-06,100.0,4.3,Finalizado,3,Luis López,22,Medellín,Software,2,2025-03-05,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-05,True,9285.71,8,19-22
+I0147,E087,C04,2026-03-03,39.4,2.7,Activo,3,Luis Meza,20,Sabaneta,Redes,3,2024-12-10,SQL para análisis,Datos,Virtual,28,280000,2026-03,False,10000.0,24,19-22
+I0148,E114,C03,2026-02-06,80.3,3.6,Retirado,4,Sofía Urrutia,24,Envigado,Software,3,2025-12-09,Visualización de datos,Datos,Híbrida,30,300000,2026-02,True,10000.0,15,23-26
+I0149,E015,C05,2026-04-13,80.4,4.0,Finalizado,4,Ana Cano,24,Medellín,Datos,4,2024-07-10,Automatización con Python,Programación,Híbrida,40,360000,2026-04,True,9000.0,11,23-26
+I0150,E092,C07,2026-09-08,100.0,4.5,Finalizado,3,Mateo Sánchez,22,Envigado,Datos,3,2024-02-15,Fundamentos de redes,Redes,Presencial,32,250000,2026-09,True,7812.5,6,19-22
+I0151,E052,C08,2026-06-06,98.0,4.8,Finalizado,4,Ana Giraldo,21,Bello,Datos,3,2025-12-02,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-06,True,10333.33,3,19-22
+I0152,E109,C12,2026-08-05,100.0,4.5,Finalizado,4,Ana García,16,Bello,Software,1,2024-07-13,Introducción a IA,Programación,Virtual,26,340000,2026-08,True,13076.92,6,16-18
+I0153,E032,C11,2026-09-23,63.5,3.4,Finalizado,4,Juan Montoya,20,Bello,Redes,5,2024-08-24,Excel para analítica,Datos,Presencial,20,210000,2026-09,False,10500.0,17,19-22
+I0154,E054,C03,2026-07-09,72.8,3.1,Activo,3,Nataly Meza,21,Bello,Diseño,2,2025-01-08,Visualización de datos,Datos,Híbrida,30,300000,2026-07,True,10000.0,20,19-22
+I0155,E109,C02,2026-06-09,68.9,3.6,Activo,3,Ana García,16,Bello,Software,1,2024-07-13,Análisis con pandas,Datos,Virtual,36,320000,2026-06,False,8888.89,15,16-18
+I0156,E072,C07,2026-09-24,60.3,2.9,Activo,4,Sofía López,16,Medellín,Redes,4,2024-04-01,Fundamentos de redes,Redes,Presencial,32,250000,2026-09,False,7812.5,22,16-18
+I0157,E053,C06,2026-03-04,76.0,3.3,Finalizado,3,Laura Meza,16,Envigado,Datos,1,2025-09-07,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-03,True,9285.71,18,16-18
+I0158,E048,C01,2026-02-14,65.2,2.8,Activo,3,Samuel Ruiz,20,Bello,Diseño,5,2026-06-04,Python básico,Programación,Presencial,32,260000,2026-02,False,8125.0,23,19-22
+I0159,E093,C03,2026-02-13,65.0,3.2,Finalizado,4,María Urrutia,17,Medellín,Datos,2,2024-04-21,Visualización de datos,Datos,Híbrida,30,300000,2026-02,False,10000.0,19,16-18
+I0160,E073,C06,2026-05-09,41.2,2.8,Finalizado,4,Valentina Betancur,26,Itagüí,Datos,3,2025-06-29,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-05,False,9285.71,23,23-26
+I0161,E040,C06,2026-04-11,100.0,4.8,Finalizado,4,Luis Rojas,22,Bello,Software,2,2025-05-16,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-04,True,9285.71,3,19-22
+I0162,E011,C04,2026-02-11,63.3,3.3,Finalizado,3,Ana Urrutia,20,Medellín,Diseño,5,2024-02-19,SQL para análisis,Datos,Virtual,28,280000,2026-02,False,10000.0,18,19-22
+I0163,E097,C12,2026-04-05,41.5,2.8,Activo,3,María Meza,22,Medellín,Software,2,2025-10-13,Introducción a IA,Programación,Virtual,26,340000,2026-04,False,13076.92,23,19-22
+I0164,E115,C01,2026-09-19,100.0,4.3,Finalizado,4,Samuel López,20,Envigado,Datos,4,2025-03-13,Python básico,Programación,Presencial,32,260000,2026-09,True,8125.0,8,19-22
+I0165,E094,C02,2026-03-17,57.7,2.2,Activo,1,Diego Cano,17,Bello,Software,3,2025-04-26,Análisis con pandas,Datos,Virtual,36,320000,2026-03,False,8888.89,29,16-18
+I0166,E003,C08,2026-04-03,54.1,2.9,Activo,2,Valentina García,31,Medellín,Datos,5,2025-04-21,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-04,False,10333.33,22,27-40
+I0167,E005,C08,2026-07-10,72.0,3.7,Activo,3,Juan García,18,Envigado,Datos,3,2025-01-09,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-07,True,10333.33,14,16-18
+I0168,E018,C05,2026-03-16,80.4,3.6,Activo,5,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Automatización con Python,Programación,Híbrida,40,360000,2026-03,True,9000.0,15,23-26
+I0169,E081,C02,2026-01-06,59.4,4.0,Finalizado,5,Laura Montoya,23,Envigado,Diseño,2,2026-02-10,Análisis con pandas,Datos,Virtual,36,320000,2026-01,False,8888.89,11,23-26
+I0170,E077,C04,2026-09-16,96.4,5.0,Finalizado,4,Sara Meza,26,Medellín,Redes,3,2024-11-11,SQL para análisis,Datos,Virtual,28,280000,2026-09,True,10000.0,1,23-26
+I0171,E034,C04,2026-06-10,48.4,3.1,Finalizado,3,Sara Cano,23,Medellín,Diseño,3,2024-07-10,SQL para análisis,Datos,Virtual,28,280000,2026-06,False,10000.0,20,23-26
+I0172,E023,C02,2026-02-24,57.4,3.5,Finalizado,3,María Cano,17,Envigado,Datos,4,2025-07-06,Análisis con pandas,Datos,Virtual,36,320000,2026-02,False,8888.89,16,16-18
+I0173,E016,C07,2026-01-07,72.0,3.8,Retirado,4,Diego Cardona,19,Sabaneta,Diseño,2,2025-08-02,Fundamentos de redes,Redes,Presencial,32,250000,2026-01,True,7812.5,13,19-22
+I0174,E070,C02,2026-04-22,62.8,3.1,Finalizado,3,Andrés Sánchez,16,Medellín,Software,2,2025-06-14,Análisis con pandas,Datos,Virtual,36,320000,2026-04,False,8888.89,20,16-18
+I0175,E012,C02,2026-09-14,66.3,3.3,Activo,4,Nataly Meza,31,Bello,Diseño,4,2024-11-01,Análisis con pandas,Datos,Virtual,36,320000,2026-09,False,8888.89,18,27-40
+I0176,E076,C05,2026-07-04,57.0,3.0,Activo,4,Diego López,16,Itagüí,Diseño,2,2025-07-28,Automatización con Python,Programación,Híbrida,40,360000,2026-07,False,9000.0,21,16-18
+I0177,E030,C03,2026-06-09,61.6,2.9,Finalizado,3,Camila García,23,Medellín,Redes,4,2026-05-19,Visualización de datos,Datos,Híbrida,30,300000,2026-06,False,10000.0,22,23-26
+I0178,E006,C01,2026-04-02,64.4,3.1,Retirado,2,Sofía Rojas,20,Envigado,Redes,3,2025-09-03,Python básico,Programación,Presencial,32,260000,2026-04,False,8125.0,20,19-22
+I0179,E103,C05,2026-03-06,70.4,2.8,Activo,5,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Automatización con Python,Programación,Híbrida,40,360000,2026-03,False,9000.0,23,23-26
+I0180,E005,C05,2026-05-03,76.8,4.1,Activo,4,Juan García,18,Envigado,Datos,3,2025-01-09,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,10,16-18
+I0181,E120,C04,2026-01-02,95.2,4.2,Finalizado,4,Ana Cardona,24,Sabaneta,Datos,1,2024-05-04,SQL para análisis,Datos,Virtual,28,280000,2026-01,True,10000.0,9,23-26
+I0182,E095,C01,2026-03-06,45.8,2.8,Activo,3,Valentina Betancur,24,Bello,Software,2,2026-04-07,Python básico,Programación,Presencial,32,260000,2026-03,False,8125.0,23,23-26
+I0183,E057,C04,2026-02-10,74.6,3.1,Retirado,4,Ana López,28,Medellín,Datos,2,2025-01-28,SQL para análisis,Datos,Virtual,28,280000,2026-02,True,10000.0,20,27-40
+I0184,E053,C09,2026-03-11,92.7,3.3,Finalizado,3,Laura Meza,16,Envigado,Datos,1,2025-09-07,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-03,True,10357.14,18,16-18
+I0185,E029,C03,2026-07-22,63.1,4.3,Finalizado,4,Carlos Meza,24,Sabaneta,Redes,4,2025-03-12,Visualización de datos,Datos,Híbrida,30,300000,2026-07,False,10000.0,8,23-26
+I0186,E049,C04,2026-08-17,74.9,3.5,Finalizado,4,Samuel Sánchez,23,Medellín,Datos,3,2024-08-17,SQL para análisis,Datos,Virtual,28,280000,2026-08,True,10000.0,16,23-26
+I0187,E107,C11,2026-07-21,56.7,3.7,Activo,2,Ana Ruiz,23,Medellín,Software,3,2026-04-14,Excel para analítica,Datos,Presencial,20,210000,2026-07,False,10500.0,14,23-26
+I0188,E091,C06,2026-05-16,85.8,4.6,Activo,4,Carlos Sánchez,30,Sabaneta,Datos,3,2025-01-28,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-05,True,9285.71,5,27-40
+I0189,E082,C02,2026-08-16,71.9,3.8,Retirado,3,Valentina Montoya,16,Sabaneta,Diseño,3,2026-02-21,Análisis con pandas,Datos,Virtual,36,320000,2026-08,True,8888.89,13,16-18
+I0190,E107,C09,2026-01-09,63.5,3.1,Activo,4,Ana Ruiz,23,Medellín,Software,3,2026-04-14,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-01,False,10357.14,20,23-26
+I0191,E035,C03,2026-09-03,85.4,3.4,Finalizado,5,Nataly Cardona,20,Bello,Redes,5,2025-03-13,Visualización de datos,Datos,Híbrida,30,300000,2026-09,True,10000.0,17,19-22
+I0192,E013,C04,2026-01-19,100.0,3.8,Finalizado,5,Camila Meza,22,Medellín,Datos,2,2025-06-26,SQL para análisis,Datos,Virtual,28,280000,2026-01,True,10000.0,13,19-22
+I0193,E068,C02,2026-03-22,82.7,3.6,Finalizado,3,María Ruiz,20,Medellín,Datos,1,2025-07-03,Análisis con pandas,Datos,Virtual,36,320000,2026-03,True,8888.89,15,19-22
+I0194,E100,C12,2026-08-18,30.5,2.1,Activo,3,Sofía Montoya,26,Envigado,Redes,3,2025-07-08,Introducción a IA,Programación,Virtual,26,340000,2026-08,False,13076.92,30,23-26
+I0195,E075,C08,2026-01-10,78.3,3.6,Activo,3,Laura García,25,Itagüí,Datos,2,2025-05-27,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,True,10333.33,15,23-26
+I0196,E008,C07,2026-04-03,76.3,4.0,Activo,3,Samuel García,24,Medellín,Redes,3,2024-01-15,Fundamentos de redes,Redes,Presencial,32,250000,2026-04,True,7812.5,11,23-26
+I0197,E080,C07,2026-01-08,27.2,2.3,Activo,3,Diego Giraldo,26,Sabaneta,Software,5,2026-03-23,Fundamentos de redes,Redes,Presencial,32,250000,2026-01,False,7812.5,28,23-26
+I0198,E013,C03,2026-03-04,82.3,4.0,Finalizado,5,Camila Meza,22,Medellín,Datos,2,2025-06-26,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,11,19-22
+I0199,E060,C03,2026-05-07,97.0,4.1,Finalizado,4,María Ruiz,24,Medellín,Datos,2,2026-06-03,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,10,23-26
+I0200,E057,C08,2026-01-01,100.0,4.2,Activo,5,Ana López,28,Medellín,Datos,2,2025-01-28,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,True,10333.33,9,27-40
+I0201,E065,C10,2026-02-08,91.2,4.8,Finalizado,4,Ana Giraldo,16,Medellín,Datos,4,2025-04-10,Experiencia de usuario,Diseño,Virtual,24,270000,2026-02,True,11250.0,3,16-18
+I0202,E053,C03,2026-04-06,77.6,4.2,Activo,5,Laura Meza,16,Envigado,Datos,1,2025-09-07,Visualización de datos,Datos,Híbrida,30,300000,2026-04,True,10000.0,9,16-18
+I0203,E012,C05,2026-05-20,70.1,3.5,Activo,4,Nataly Meza,31,Bello,Diseño,4,2024-11-01,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,16,27-40
+I0204,E011,C12,2026-02-13,100.0,3.3,Activo,4,Ana Urrutia,20,Medellín,Diseño,5,2024-02-19,Introducción a IA,Programación,Virtual,26,340000,2026-02,True,13076.92,18,19-22
+I0205,E064,C12,2026-08-18,63.4,2.8,Activo,5,Valentina Cardona,24,Medellín,Redes,2,2025-01-21,Introducción a IA,Programación,Virtual,26,340000,2026-08,False,13076.92,23,23-26
+I0206,E080,C06,2026-04-01,89.1,3.4,Finalizado,3,Diego Giraldo,26,Sabaneta,Software,5,2026-03-23,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-04,True,9285.71,17,23-26
+I0207,E103,C11,2026-02-16,51.4,2.2,Retirado,4,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Excel para analítica,Datos,Presencial,20,210000,2026-02,False,10500.0,29,23-26
+I0208,E048,C05,2026-05-05,80.3,3.6,Finalizado,3,Samuel Ruiz,20,Bello,Diseño,5,2026-06-04,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,15,19-22
+I0209,E008,C07,2026-06-13,30.5,1.5,Retirado,3,Samuel García,24,Medellín,Redes,3,2024-01-15,Fundamentos de redes,Redes,Presencial,32,250000,2026-06,False,7812.5,36,23-26
+I0210,E113,C06,2026-08-22,80.3,3.6,Retirado,3,Nataly Montoya,28,Bello,Datos,2,2024-09-12,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-08,True,9285.71,15,27-40
+I0211,E111,C08,2026-03-15,74.2,4.1,Finalizado,4,Mateo Urrutia,24,Sabaneta,Datos,4,2024-01-31,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-03,True,10333.33,10,23-26
+I0212,E075,C03,2026-04-08,56.6,2.5,Finalizado,3,Laura García,25,Itagüí,Datos,2,2025-05-27,Visualización de datos,Datos,Híbrida,30,300000,2026-04,False,10000.0,26,23-26
+I0213,E033,C08,2026-01-23,80.2,3.8,Activo,4,Carlos Ruiz,17,Medellín,Software,5,2025-03-18,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,True,10333.33,13,16-18
+I0214,E051,C06,2026-02-20,40.2,2.4,Finalizado,3,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,27,16-18
+I0215,E045,C03,2026-05-01,87.9,3.9,Finalizado,4,Camila Urrutia,22,Itagüí,Datos,4,2024-04-10,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,12,19-22
+I0216,E062,C03,2026-06-13,72.0,4.0,Activo,4,Sara Meza,21,Envigado,Software,3,2025-07-17,Visualización de datos,Datos,Híbrida,30,300000,2026-06,True,10000.0,11,19-22
+I0217,E079,C02,2026-08-22,41.8,2.6,Activo,3,Camila Cardona,22,Medellín,Redes,3,2025-11-03,Análisis con pandas,Datos,Virtual,36,320000,2026-08,False,8888.89,25,19-22
+I0218,E107,C12,2026-07-18,100.0,3.9,Finalizado,4,Ana Ruiz,23,Medellín,Software,3,2026-04-14,Introducción a IA,Programación,Virtual,26,340000,2026-07,True,13076.92,12,23-26
+I0219,E029,C03,2026-01-19,100.0,5.0,Finalizado,4,Carlos Meza,24,Sabaneta,Redes,4,2025-03-12,Visualización de datos,Datos,Híbrida,30,300000,2026-01,True,10000.0,1,23-26
+I0220,E031,C02,2026-03-09,80.0,3.7,Activo,4,Sara García,17,Envigado,Software,2,2025-03-15,Análisis con pandas,Datos,Virtual,36,320000,2026-03,True,8888.89,14,16-18
+I0221,E018,C12,2026-02-04,80.5,3.9,Activo,5,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Introducción a IA,Programación,Virtual,26,340000,2026-02,True,13076.92,12,23-26
+I0222,E018,C03,2026-04-12,95.8,4.4,Finalizado,4,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Visualización de datos,Datos,Híbrida,30,300000,2026-04,True,10000.0,7,23-26
+I0223,E104,C05,2026-02-09,93.5,4.4,Activo,4,Camila Giraldo,21,Medellín,Datos,5,2026-05-03,Automatización con Python,Programación,Híbrida,40,360000,2026-02,True,9000.0,7,19-22
+I0224,E073,C03,2026-05-19,99.1,4.4,Finalizado,5,Valentina Betancur,26,Itagüí,Datos,3,2025-06-29,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,7,23-26
+I0225,E079,C02,2026-04-02,94.4,3.8,Finalizado,3,Camila Cardona,22,Medellín,Redes,3,2025-11-03,Análisis con pandas,Datos,Virtual,36,320000,2026-04,True,8888.89,13,19-22
+I0226,E037,C02,2026-04-16,49.4,2.9,Finalizado,4,Mateo López,18,Bello,Diseño,2,2024-05-27,Análisis con pandas,Datos,Virtual,36,320000,2026-04,False,8888.89,22,16-18
+I0227,E069,C10,2026-04-02,71.9,4.3,Retirado,5,María Cano,20,Sabaneta,Datos,4,2025-07-08,Experiencia de usuario,Diseño,Virtual,24,270000,2026-04,True,11250.0,8,19-22
+I0228,E024,C06,2026-06-04,68.7,3.5,Activo,4,Andrés López,17,Bello,Software,3,2024-10-15,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-06,False,9285.71,16,16-18
+I0229,E046,C03,2026-03-03,88.7,5.0,Retirado,5,Luis Sánchez,23,Bello,Redes,6,2025-12-22,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,1,23-26
+I0230,E029,C02,2026-02-13,83.6,4.3,Finalizado,3,Carlos Meza,24,Sabaneta,Redes,4,2025-03-12,Análisis con pandas,Datos,Virtual,36,320000,2026-02,True,8888.89,8,23-26
+I0231,E095,C09,2026-03-18,100.0,4.2,Finalizado,5,Valentina Betancur,24,Bello,Software,2,2026-04-07,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-03,True,10357.14,9,23-26
+I0232,E010,C02,2026-04-01,38.0,2.1,Finalizado,2,Samuel Urrutia,27,Medellín,Software,1,2024-01-15,Análisis con pandas,Datos,Virtual,36,320000,2026-04,False,8888.89,30,27-40
+I0233,E070,C04,2026-02-24,76.6,3.6,Activo,4,Andrés Sánchez,16,Medellín,Software,2,2025-06-14,SQL para análisis,Datos,Virtual,28,280000,2026-02,True,10000.0,15,16-18
+I0234,E075,C03,2026-03-22,77.4,3.1,Finalizado,3,Laura García,25,Itagüí,Datos,2,2025-05-27,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,20,23-26
+I0235,E051,C12,2026-02-24,74.8,3.1,Activo,4,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Introducción a IA,Programación,Virtual,26,340000,2026-02,True,13076.92,20,16-18
+I0236,E066,C01,2026-04-06,43.1,3.0,Finalizado,4,Sofía Sánchez,25,Itagüí,Software,3,2026-05-24,Python básico,Programación,Presencial,32,260000,2026-04,False,8125.0,21,23-26
+I0237,E085,C03,2026-01-04,70.1,2.3,Activo,4,Andrés Betancur,24,Bello,Redes,2,2025-01-30,Visualización de datos,Datos,Híbrida,30,300000,2026-01,False,10000.0,28,23-26
+I0238,E013,C06,2026-08-15,75.9,2.9,Finalizado,3,Camila Meza,22,Medellín,Datos,2,2025-06-26,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-08,False,9285.71,22,19-22
+I0239,E001,C02,2026-05-15,86.2,3.4,Finalizado,4,Laura Urrutia,16,Bello,Datos,4,2026-05-02,Análisis con pandas,Datos,Virtual,36,320000,2026-05,True,8888.89,17,16-18
+I0240,E046,C05,2026-01-20,59.4,3.1,Finalizado,4,Luis Sánchez,23,Bello,Redes,6,2025-12-22,Automatización con Python,Programación,Híbrida,40,360000,2026-01,False,9000.0,20,23-26
+I0241,E021,C02,2026-05-19,46.8,3.0,Finalizado,3,Luis Giraldo,29,Envigado,Datos,3,2025-12-22,Análisis con pandas,Datos,Virtual,36,320000,2026-05,False,8888.89,21,27-40
+I0242,E059,C10,2026-04-19,67.4,3.7,Retirado,4,Ana Betancur,27,Medellín,Software,3,2025-08-05,Experiencia de usuario,Diseño,Virtual,24,270000,2026-04,False,11250.0,14,27-40
+I0243,E053,C03,2026-02-06,57.9,3.8,Finalizado,4,Laura Meza,16,Envigado,Datos,1,2025-09-07,Visualización de datos,Datos,Híbrida,30,300000,2026-02,False,10000.0,13,16-18
+I0244,E092,C03,2026-03-09,84.1,3.7,Retirado,4,Mateo Sánchez,22,Envigado,Datos,3,2024-02-15,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,14,19-22
+I0245,E059,C04,2026-05-03,75.4,3.1,Activo,4,Ana Betancur,27,Medellín,Software,3,2025-08-05,SQL para análisis,Datos,Virtual,28,280000,2026-05,True,10000.0,20,27-40
+I0246,E099,C02,2026-01-08,88.4,4.1,Activo,4,Sofía Sánchez,23,Envigado,Redes,2,2026-05-15,Análisis con pandas,Datos,Virtual,36,320000,2026-01,True,8888.89,10,23-26
+I0247,E010,C09,2026-06-08,49.4,3.2,Activo,4,Samuel Urrutia,27,Medellín,Software,1,2024-01-15,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-06,False,10357.14,19,27-40
+I0248,E085,C01,2026-03-22,83.2,4.4,Retirado,4,Andrés Betancur,24,Bello,Redes,2,2025-01-30,Python básico,Programación,Presencial,32,260000,2026-03,True,8125.0,7,23-26
+I0249,E041,C12,2026-05-10,78.2,4.2,Finalizado,5,Ana López,16,Medellín,Datos,3,2024-05-07,Introducción a IA,Programación,Virtual,26,340000,2026-05,True,13076.92,9,16-18
+I0250,E026,C11,2026-04-12,52.4,3.2,Finalizado,4,Juan García,30,Sabaneta,Software,3,2024-08-24,Excel para analítica,Datos,Presencial,20,210000,2026-04,False,10500.0,19,27-40
+I0251,E017,C10,2026-02-04,89.7,4.9,Activo,4,Luis Montoya,24,Sabaneta,Datos,3,2025-10-30,Experiencia de usuario,Diseño,Virtual,24,270000,2026-02,True,11250.0,2,23-26
+I0252,E095,C10,2026-02-04,50.8,3.4,Retirado,5,Valentina Betancur,24,Bello,Software,2,2026-04-07,Experiencia de usuario,Diseño,Virtual,24,270000,2026-02,False,11250.0,17,23-26
+I0253,E044,C03,2026-04-10,80.6,4.7,Finalizado,5,Valentina Montoya,17,Medellín,Diseño,2,2024-04-16,Visualización de datos,Datos,Híbrida,30,300000,2026-04,True,10000.0,4,16-18
+I0254,E047,C08,2026-03-19,53.4,2.8,Activo,4,Ana Giraldo,24,Itagüí,Redes,3,2024-12-14,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-03,False,10333.33,23,23-26
+I0255,E061,C01,2026-08-10,70.3,3.9,Finalizado,3,Laura Meza,25,Envigado,Software,2,2025-01-15,Python básico,Programación,Presencial,32,260000,2026-08,True,8125.0,12,23-26
+I0256,E037,C02,2026-09-10,80.8,3.5,Finalizado,5,Mateo López,18,Bello,Diseño,2,2024-05-27,Análisis con pandas,Datos,Virtual,36,320000,2026-09,True,8888.89,16,16-18
+I0257,E007,C10,2026-05-13,72.3,3.6,Activo,3,María Betancur,22,Bello,Datos,3,2024-09-26,Experiencia de usuario,Diseño,Virtual,24,270000,2026-05,True,11250.0,15,19-22
+I0258,E042,C07,2026-01-11,70.5,4.0,Activo,4,Camila Betancur,18,Bello,Software,2,2025-02-01,Fundamentos de redes,Redes,Presencial,32,250000,2026-01,True,7812.5,11,16-18
+I0259,E115,C06,2026-02-23,47.4,2.3,Retirado,5,Samuel López,20,Envigado,Datos,4,2025-03-13,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,28,19-22
+I0260,E064,C01,2026-02-10,43.1,2.8,Activo,3,Valentina Cardona,24,Medellín,Redes,2,2025-01-21,Python básico,Programación,Presencial,32,260000,2026-02,False,8125.0,23,23-26
+I0261,E090,C02,2026-03-02,82.3,3.4,Finalizado,3,Laura Meza,27,Bello,Software,2,2024-05-23,Análisis con pandas,Datos,Virtual,36,320000,2026-03,True,8888.89,17,27-40
+I0262,E058,C08,2026-02-13,67.0,3.4,Activo,3,Samuel Betancur,25,Bello,Datos,2,2025-10-01,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-02,False,10333.33,17,23-26
+I0263,E105,C04,2026-04-14,92.4,4.6,Finalizado,4,Camila Cano,18,Envigado,Redes,1,2024-08-22,SQL para análisis,Datos,Virtual,28,280000,2026-04,True,10000.0,5,16-18
+I0264,E082,C10,2026-04-01,83.5,4.1,Activo,5,Valentina Montoya,16,Sabaneta,Diseño,3,2026-02-21,Experiencia de usuario,Diseño,Virtual,24,270000,2026-04,True,11250.0,10,16-18
+I0265,E062,C05,2026-07-04,70.0,3.3,Finalizado,4,Sara Meza,21,Envigado,Software,3,2025-07-17,Automatización con Python,Programación,Híbrida,40,360000,2026-07,True,9000.0,18,19-22
+I0266,E080,C08,2026-05-03,90.0,3.9,Finalizado,4,Diego Giraldo,26,Sabaneta,Software,5,2026-03-23,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-05,True,10333.33,12,23-26
+I0267,E112,C08,2026-08-19,91.2,2.5,Finalizado,4,Carlos López,22,Envigado,Diseño,3,2025-03-16,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-08,False,10333.33,26,19-22
+I0268,E079,C03,2026-03-06,87.2,4.3,Activo,3,Camila Cardona,22,Medellín,Redes,3,2025-11-03,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,8,19-22
+I0269,E088,C03,2026-06-16,69.1,3.6,Finalizado,2,Carlos García,30,Itagüí,Software,2,2025-07-08,Visualización de datos,Datos,Híbrida,30,300000,2026-06,False,10000.0,15,27-40
+I0270,E067,C06,2026-02-17,79.2,3.8,Finalizado,2,Juan Cano,19,Medellín,Datos,3,2025-10-15,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,True,9285.71,13,19-22
+I0271,E051,C03,2026-02-17,62.9,2.2,Retirado,3,Valentina Ruiz,18,Itagüí,Datos,2,2024-04-29,Visualización de datos,Datos,Híbrida,30,300000,2026-02,False,10000.0,29,16-18
+I0272,E088,C05,2026-06-14,73.2,4.1,Activo,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Automatización con Python,Programación,Híbrida,40,360000,2026-06,True,9000.0,10,27-40
+I0273,E036,C11,2026-05-24,84.7,4.7,Activo,4,Nataly Cano,23,Sabaneta,Software,3,2025-08-15,Excel para analítica,Datos,Presencial,20,210000,2026-05,True,10500.0,4,23-26
+I0274,E006,C05,2026-06-13,72.7,3.3,Finalizado,2,Sofía Rojas,20,Envigado,Redes,3,2025-09-03,Automatización con Python,Programación,Híbrida,40,360000,2026-06,True,9000.0,18,19-22
+I0275,E027,C03,2026-05-04,87.5,3.6,Finalizado,3,Carlos Giraldo,16,Sabaneta,Redes,2,2025-10-18,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,15,16-18
+I0276,E017,C09,2026-06-24,61.3,2.5,Activo,4,Luis Montoya,24,Sabaneta,Datos,3,2025-10-30,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-06,False,10357.14,26,23-26
+I0277,E005,C01,2026-04-23,78.8,3.3,Finalizado,3,Juan García,18,Envigado,Datos,3,2025-01-09,Python básico,Programación,Presencial,32,260000,2026-04,True,8125.0,18,16-18
+I0278,E103,C02,2026-05-19,95.9,4.5,Finalizado,4,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Análisis con pandas,Datos,Virtual,36,320000,2026-05,True,8888.89,6,23-26
+I0279,E075,C12,2026-02-05,87.2,3.5,Activo,4,Laura García,25,Itagüí,Datos,2,2025-05-27,Introducción a IA,Programación,Virtual,26,340000,2026-02,True,13076.92,16,23-26
+I0280,E018,C02,2026-06-01,68.7,3.0,Activo,4,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Análisis con pandas,Datos,Virtual,36,320000,2026-06,False,8888.89,21,23-26
+I0281,E118,C02,2026-02-23,86.1,4.7,Finalizado,5,Sara García,19,Envigado,Software,3,2025-04-07,Análisis con pandas,Datos,Virtual,36,320000,2026-02,True,8888.89,4,19-22
+I0282,E111,C01,2026-01-11,78.2,3.5,Finalizado,5,Mateo Urrutia,24,Sabaneta,Datos,4,2024-01-31,Python básico,Programación,Presencial,32,260000,2026-01,True,8125.0,16,23-26
+I0283,E009,C01,2026-08-18,88.4,4.1,Finalizado,3,Carlos Ruiz,23,Medellín,Software,4,2025-11-07,Python básico,Programación,Presencial,32,260000,2026-08,True,8125.0,10,23-26
+I0284,E111,C06,2026-09-13,61.3,3.2,Retirado,5,Mateo Urrutia,24,Sabaneta,Datos,4,2024-01-31,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-09,False,9285.71,19,23-26
+I0285,E088,C06,2026-05-01,48.3,3.2,Finalizado,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-05,False,9285.71,19,27-40
+I0286,E044,C03,2026-07-15,100.0,5.0,Finalizado,3,Valentina Montoya,17,Medellín,Diseño,2,2024-04-16,Visualización de datos,Datos,Híbrida,30,300000,2026-07,True,10000.0,1,16-18
+I0287,E032,C06,2026-02-10,69.5,3.9,Activo,4,Juan Montoya,20,Bello,Redes,5,2024-08-24,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,12,19-22
+I0288,E022,C12,2026-03-16,75.8,4.2,Finalizado,4,Camila Urrutia,16,Bello,Diseño,2,2026-05-24,Introducción a IA,Programación,Virtual,26,340000,2026-03,True,13076.92,9,16-18
+I0289,E088,C08,2026-04-07,100.0,3.9,Finalizado,5,Carlos García,30,Itagüí,Software,2,2025-07-08,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-04,True,10333.33,12,27-40
+I0290,E014,C01,2026-02-16,39.5,2.8,Finalizado,3,Ana López,21,Medellín,Software,3,2024-06-15,Python básico,Programación,Presencial,32,260000,2026-02,False,8125.0,23,19-22
+I0291,E049,C08,2026-04-01,75.4,3.7,Finalizado,3,Samuel Sánchez,23,Medellín,Datos,3,2024-08-17,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-04,True,10333.33,14,23-26
+I0292,E114,C01,2026-01-23,60.9,2.5,Finalizado,3,Sofía Urrutia,24,Envigado,Software,3,2025-12-09,Python básico,Programación,Presencial,32,260000,2026-01,False,8125.0,26,23-26
+I0293,E086,C08,2026-05-07,43.5,2.8,Activo,5,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-05,False,10333.33,23,19-22
+I0294,E025,C03,2026-03-07,30.8,2.2,Retirado,3,Ana Cardona,26,Itagüí,Datos,1,2024-02-02,Visualización de datos,Datos,Híbrida,30,300000,2026-03,False,10000.0,29,23-26
+I0295,E083,C12,2026-06-09,100.0,4.2,Finalizado,4,Carlos Meza,19,Sabaneta,Datos,5,2026-01-27,Introducción a IA,Programación,Virtual,26,340000,2026-06,True,13076.92,9,19-22
+I0296,E087,C03,2026-06-20,55.5,2.1,Activo,4,Luis Meza,20,Sabaneta,Redes,3,2024-12-10,Visualización de datos,Datos,Híbrida,30,300000,2026-06,False,10000.0,30,19-22
+I0297,E070,C03,2026-04-19,94.8,4.7,Finalizado,4,Andrés Sánchez,16,Medellín,Software,2,2025-06-14,Visualización de datos,Datos,Híbrida,30,300000,2026-04,True,10000.0,4,16-18
+I0298,E103,C03,2026-08-02,74.5,4.3,Activo,3,Samuel Giraldo,23,Medellín,Software,2,2025-10-05,Visualización de datos,Datos,Híbrida,30,300000,2026-08,True,10000.0,8,23-26
+I0299,E015,C05,2026-03-07,57.1,3.4,Activo,4,Ana Cano,24,Medellín,Datos,4,2024-07-10,Automatización con Python,Programación,Híbrida,40,360000,2026-03,False,9000.0,17,23-26
+I0300,E025,C02,2026-03-09,62.5,2.2,Activo,3,Ana Cardona,26,Itagüí,Datos,1,2024-02-02,Análisis con pandas,Datos,Virtual,36,320000,2026-03,False,8888.89,29,23-26
+I0301,E099,C07,2026-02-22,93.9,4.3,Finalizado,4,Sofía Sánchez,23,Envigado,Redes,2,2026-05-15,Fundamentos de redes,Redes,Presencial,32,250000,2026-02,True,7812.5,8,23-26
+I0302,E054,C07,2026-06-07,75.4,3.0,Retirado,3,Nataly Meza,21,Bello,Diseño,2,2025-01-08,Fundamentos de redes,Redes,Presencial,32,250000,2026-06,True,7812.5,21,19-22
+I0303,E003,C05,2026-05-21,91.1,3.8,Finalizado,3,Valentina García,31,Medellín,Datos,5,2025-04-21,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,13,27-40
+I0304,E098,C08,2026-04-16,74.8,4.1,Finalizado,5,Laura Betancur,31,Sabaneta,Redes,4,2024-09-13,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-04,True,10333.33,10,27-40
+I0305,E099,C01,2026-03-20,72.6,3.9,Activo,3,Sofía Sánchez,23,Envigado,Redes,2,2026-05-15,Python básico,Programación,Presencial,32,260000,2026-03,True,8125.0,12,23-26
+I0306,E120,C04,2026-09-18,88.6,4.6,Finalizado,4,Ana Cardona,24,Sabaneta,Datos,1,2024-05-04,SQL para análisis,Datos,Virtual,28,280000,2026-09,True,10000.0,5,23-26
+I0307,E050,C03,2026-02-06,100.0,4.1,Finalizado,3,Luis López,22,Itagüí,Diseño,4,2025-02-27,Visualización de datos,Datos,Híbrida,30,300000,2026-02,True,10000.0,10,19-22
+I0308,E059,C02,2026-05-11,100.0,4.6,Finalizado,3,Ana Betancur,27,Medellín,Software,3,2025-08-05,Análisis con pandas,Datos,Virtual,36,320000,2026-05,True,8888.89,5,27-40
+I0309,E021,C07,2026-03-05,81.9,3.5,Finalizado,3,Luis Giraldo,29,Envigado,Datos,3,2025-12-22,Fundamentos de redes,Redes,Presencial,32,250000,2026-03,True,7812.5,16,27-40
+I0310,E100,C07,2026-03-22,96.7,3.8,Finalizado,4,Sofía Montoya,26,Envigado,Redes,3,2025-07-08,Fundamentos de redes,Redes,Presencial,32,250000,2026-03,True,7812.5,13,23-26
+I0311,E088,C10,2026-04-15,75.9,5.0,Finalizado,4,Carlos García,30,Itagüí,Software,2,2025-07-08,Experiencia de usuario,Diseño,Virtual,24,270000,2026-04,True,11250.0,1,27-40
+I0312,E107,C12,2026-03-13,70.2,3.1,Finalizado,3,Ana Ruiz,23,Medellín,Software,3,2026-04-14,Introducción a IA,Programación,Virtual,26,340000,2026-03,True,13076.92,20,23-26
+I0313,E002,C02,2026-04-13,72.8,3.0,Activo,3,Carlos García,18,Envigado,Redes,2,2025-05-09,Análisis con pandas,Datos,Virtual,36,320000,2026-04,True,8888.89,21,16-18
+I0314,E018,C08,2026-01-13,100.0,5.0,Finalizado,5,Diego Meza,23,Medellín,Diseño,3,2025-03-16,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,True,10333.33,1,23-26
+I0315,E056,C09,2026-06-17,16.1,2.0,Activo,4,Camila Ruiz,21,Itagüí,Redes,3,2025-06-30,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-06,False,10357.14,31,19-22
+I0316,E053,C03,2026-03-05,90.6,4.7,Finalizado,5,Laura Meza,16,Envigado,Datos,1,2025-09-07,Visualización de datos,Datos,Híbrida,30,300000,2026-03,True,10000.0,4,16-18
+I0317,E077,C07,2026-08-16,89.0,4.5,Activo,4,Sara Meza,26,Medellín,Redes,3,2024-11-11,Fundamentos de redes,Redes,Presencial,32,250000,2026-08,True,7812.5,6,23-26
+I0318,E022,C12,2026-02-15,72.8,3.8,Activo,4,Camila Urrutia,16,Bello,Diseño,2,2026-05-24,Introducción a IA,Programación,Virtual,26,340000,2026-02,True,13076.92,13,16-18
+I0319,E049,C03,2026-09-15,44.4,3.0,Retirado,4,Samuel Sánchez,23,Medellín,Datos,3,2024-08-17,Visualización de datos,Datos,Híbrida,30,300000,2026-09,False,10000.0,21,23-26
+I0320,E116,C03,2026-03-21,42.5,3.0,Finalizado,2,Carlos López,26,Envigado,Redes,1,2026-03-08,Visualización de datos,Datos,Híbrida,30,300000,2026-03,False,10000.0,21,23-26
+I0321,E054,C02,2026-02-16,64.5,3.3,Finalizado,4,Nataly Meza,21,Bello,Diseño,2,2025-01-08,Análisis con pandas,Datos,Virtual,36,320000,2026-02,False,8888.89,18,19-22
+I0322,E080,C03,2026-07-02,50.3,2.1,Activo,2,Diego Giraldo,26,Sabaneta,Software,5,2026-03-23,Visualización de datos,Datos,Híbrida,30,300000,2026-07,False,10000.0,30,23-26
+I0323,E110,C06,2026-02-12,56.8,3.1,Activo,4,Sara Sánchez,20,Medellín,Software,3,2024-06-10,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,20,19-22
+I0324,E071,C06,2026-02-20,69.6,3.3,Activo,3,Mateo Montoya,24,Envigado,Diseño,2,2024-03-09,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-02,False,9285.71,18,23-26
+I0325,E063,C11,2026-01-01,50.7,3.1,Activo,4,Luis Cardona,24,Medellín,Diseño,3,2024-08-06,Excel para analítica,Datos,Presencial,20,210000,2026-01,False,10500.0,20,23-26
+I0326,E061,C03,2026-09-15,54.8,1.9,Finalizado,3,Laura Meza,25,Envigado,Software,2,2025-01-15,Visualización de datos,Datos,Híbrida,30,300000,2026-09,False,10000.0,32,23-26
+I0327,E061,C08,2026-07-04,36.8,2.6,Finalizado,4,Laura Meza,25,Envigado,Software,2,2025-01-15,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-07,False,10333.33,25,23-26
+I0328,E118,C03,2026-05-20,98.3,3.5,Finalizado,4,Sara García,19,Envigado,Software,3,2025-04-07,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,16,19-22
+I0329,E095,C12,2026-03-24,81.4,3.7,Finalizado,4,Valentina Betancur,24,Bello,Software,2,2026-04-07,Introducción a IA,Programación,Virtual,26,340000,2026-03,True,13076.92,14,23-26
+I0330,E088,C09,2026-01-24,38.2,2.4,Activo,3,Carlos García,30,Itagüí,Software,2,2025-07-08,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-01,False,10357.14,27,27-40
+I0331,E025,C10,2026-06-07,35.5,2.5,Activo,3,Ana Cardona,26,Itagüí,Datos,1,2024-02-02,Experiencia de usuario,Diseño,Virtual,24,270000,2026-06,False,11250.0,26,23-26
+I0332,E106,C02,2026-08-04,97.9,4.1,Finalizado,4,Luis López,22,Medellín,Software,2,2025-03-05,Análisis con pandas,Datos,Virtual,36,320000,2026-08,True,8888.89,10,19-22
+I0333,E046,C03,2026-02-19,77.9,3.9,Activo,4,Luis Sánchez,23,Bello,Redes,6,2025-12-22,Visualización de datos,Datos,Híbrida,30,300000,2026-02,True,10000.0,12,23-26
+I0334,E001,C11,2026-05-16,69.7,2.7,Activo,3,Laura Urrutia,16,Bello,Datos,4,2026-05-02,Excel para analítica,Datos,Presencial,20,210000,2026-05,False,10500.0,24,16-18
+I0335,E016,C05,2026-05-20,100.0,5.0,Finalizado,5,Diego Cardona,19,Sabaneta,Diseño,2,2025-08-02,Automatización con Python,Programación,Híbrida,40,360000,2026-05,True,9000.0,1,19-22
+I0336,E032,C06,2026-09-14,99.9,4.3,Activo,4,Juan Montoya,20,Bello,Redes,5,2024-08-24,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-09,True,9285.71,8,19-22
+I0337,E119,C02,2026-08-18,66.2,3.8,Activo,3,Nataly López,23,Medellín,Redes,3,2024-12-17,Análisis con pandas,Datos,Virtual,36,320000,2026-08,False,8888.89,13,23-26
+I0338,E086,C12,2026-05-06,62.2,3.6,Finalizado,3,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Introducción a IA,Programación,Virtual,26,340000,2026-05,False,13076.92,15,19-22
+I0339,E076,C09,2026-02-12,66.9,3.3,Finalizado,4,Diego López,16,Itagüí,Diseño,2,2025-07-28,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-02,False,10357.14,18,16-18
+I0340,E112,C12,2026-06-16,99.5,4.2,Finalizado,4,Carlos López,22,Envigado,Diseño,3,2025-03-16,Introducción a IA,Programación,Virtual,26,340000,2026-06,True,13076.92,9,19-22
+I0341,E061,C04,2026-07-08,81.4,4.0,Retirado,5,Laura Meza,25,Envigado,Software,2,2025-01-15,SQL para análisis,Datos,Virtual,28,280000,2026-07,True,10000.0,11,23-26
+I0342,E078,C07,2026-05-19,84.8,3.9,Activo,4,Andrés Sánchez,19,Itagüí,Software,1,2025-08-03,Fundamentos de redes,Redes,Presencial,32,250000,2026-05,True,7812.5,12,19-22
+I0343,E104,C07,2026-04-18,70.4,2.8,Activo,4,Camila Giraldo,21,Medellín,Datos,5,2026-05-03,Fundamentos de redes,Redes,Presencial,32,250000,2026-04,False,7812.5,23,19-22
+I0344,E118,C09,2026-01-18,68.5,3.8,Finalizado,4,Sara García,19,Envigado,Software,3,2025-04-07,Diseño de interfaces,Diseño,Híbrida,28,290000,2026-01,False,10357.14,13,19-22
+I0345,E086,C03,2026-02-16,97.1,5.0,Finalizado,4,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Visualización de datos,Datos,Híbrida,30,300000,2026-02,True,10000.0,1,19-22
+I0346,E102,C03,2026-09-11,74.5,4.6,Finalizado,5,María López,24,Medellín,Software,3,2025-12-11,Visualización de datos,Datos,Híbrida,30,300000,2026-09,True,10000.0,5,23-26
+I0347,E074,C03,2026-07-20,56.6,3.0,Finalizado,3,Andrés Giraldo,16,Medellín,Software,3,2025-11-29,Visualización de datos,Datos,Híbrida,30,300000,2026-07,False,10000.0,21,16-18
+I0348,E113,C08,2026-02-18,83.2,4.2,Finalizado,4,Nataly Montoya,28,Bello,Datos,2,2024-09-12,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-02,True,10333.33,9,27-40
+I0349,E089,C06,2026-06-11,39.7,1.8,Activo,2,Laura García,18,Bello,Redes,3,2024-10-13,Desarrollo web con Flask,Programación,Presencial,42,390000,2026-06,False,9285.71,33,16-18
+I0350,E090,C03,2026-05-07,90.3,4.0,Activo,3,Laura Meza,27,Bello,Software,2,2024-05-23,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,11,27-40
+I0351,E050,C04,2026-01-22,83.6,4.1,Activo,5,Luis López,22,Itagüí,Diseño,4,2025-02-27,SQL para análisis,Datos,Virtual,28,280000,2026-01,True,10000.0,10,19-22
+I0352,E115,C05,2026-01-11,100.0,4.7,Finalizado,5,Samuel López,20,Envigado,Datos,4,2025-03-13,Automatización con Python,Programación,Híbrida,40,360000,2026-01,True,9000.0,4,19-22
+I0353,E021,C03,2026-03-04,59.7,4.4,Activo,4,Luis Giraldo,29,Envigado,Datos,3,2025-12-22,Visualización de datos,Datos,Híbrida,30,300000,2026-03,False,10000.0,7,27-40
+I0354,E107,C04,2026-09-24,18.6,1.6,Retirado,2,Ana Ruiz,23,Medellín,Software,3,2026-04-14,SQL para análisis,Datos,Virtual,28,280000,2026-09,False,10000.0,35,23-26
+I0355,E098,C05,2026-09-08,91.1,4.3,Finalizado,4,Laura Betancur,31,Sabaneta,Redes,4,2024-09-13,Automatización con Python,Programación,Híbrida,40,360000,2026-09,True,9000.0,8,27-40
+I0356,E097,C08,2026-01-14,71.9,3.9,Finalizado,4,María Meza,22,Medellín,Software,2,2025-10-13,Ciberseguridad inicial,Redes,Virtual,30,310000,2026-01,True,10333.33,12,19-22
+I0357,E073,C02,2026-08-23,89.7,3.2,Finalizado,3,Valentina Betancur,26,Itagüí,Datos,3,2025-06-29,Análisis con pandas,Datos,Virtual,36,320000,2026-08,True,8888.89,19,23-26
+I0358,E086,C02,2026-02-22,100.0,4.4,Finalizado,4,Camila Betancur,21,Sabaneta,Redes,3,2025-04-06,Análisis con pandas,Datos,Virtual,36,320000,2026-02,True,8888.89,7,19-22
+I0359,E007,C03,2026-05-09,100.0,4.5,Finalizado,5,María Betancur,22,Bello,Datos,3,2024-09-26,Visualización de datos,Datos,Híbrida,30,300000,2026-05,True,10000.0,6,19-22
+I0360,E044,C03,2026-07-14,70.0,3.6,Retirado,3,Valentina Montoya,17,Medellín,Diseño,2,2024-04-16,Visualización de datos,Datos,Híbrida,30,300000,2026-07,True,10000.0,15,16-18

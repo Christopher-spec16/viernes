@@ -1,0 +1,46 @@
+﻿archivo,campo,tipo,descripcion
+estudiantes.csv,estudiante_id,object,Identificador sintético del estudiante.
+estudiantes.csv,nombre,object,Nombre ficticio.
+estudiantes.csv,edad,int64,Edad en años.
+estudiantes.csv,ciudad,object,Ciudad de residencia.
+estudiantes.csv,programa,object,Programa académico.
+estudiantes.csv,nivel_socioeconomico,int64,Nivel de 1 a 6.
+estudiantes.csv,fecha_ingreso,object,Fecha de ingreso al centro.
+cursos.csv,curso_id,object,Identificador sintético del curso.
+cursos.csv,curso,object,Nombre del curso.
+cursos.csv,categoria,object,Área temática.
+cursos.csv,modalidad,object,"Presencial, virtual o híbrida."
+cursos.csv,duracion_horas,int64,Duración total.
+cursos.csv,precio,int64,Precio en pesos colombianos.
+inscripciones.csv,inscripcion_id,object,Identificador sintético de matrícula.
+inscripciones.csv,estudiante_id,object,Identificador sintético del estudiante.
+inscripciones.csv,curso_id,object,Identificador sintético del curso.
+inscripciones.csv,fecha,object,Fecha de matrícula.
+inscripciones.csv,progreso,float64,Porcentaje de avance.
+inscripciones.csv,nota,float64,Calificación entre 0 y 5.
+inscripciones.csv,estado,object,Estado de la matrícula.
+inscripciones.csv,satisfaccion,int64,Valoración de 1 a 5.
+dataset_analitico.csv,inscripcion_id,object,Identificador sintético de matrícula.
+dataset_analitico.csv,estudiante_id,object,Identificador sintético del estudiante.
+dataset_analitico.csv,curso_id,object,Identificador sintético del curso.
+dataset_analitico.csv,fecha,datetime64[ns],Fecha de matrícula.
+dataset_analitico.csv,progreso,float64,Porcentaje de avance.
+dataset_analitico.csv,nota,float64,Calificación entre 0 y 5.
+dataset_analitico.csv,estado,object,Estado de la matrícula.
+dataset_analitico.csv,satisfaccion,int64,Valoración de 1 a 5.
+dataset_analitico.csv,nombre,object,Nombre ficticio.
+dataset_analitico.csv,edad,int64,Edad en años.
+dataset_analitico.csv,ciudad,object,Ciudad de residencia.
+dataset_analitico.csv,programa,object,Programa académico.
+dataset_analitico.csv,nivel_socioeconomico,int64,Nivel de 1 a 6.
+dataset_analitico.csv,fecha_ingreso,object,Fecha de ingreso al centro.
+dataset_analitico.csv,curso,object,Nombre del curso.
+dataset_analitico.csv,categoria,object,Área temática.
+dataset_analitico.csv,modalidad,object,"Presencial, virtual o híbrida."
+dataset_analitico.csv,duracion_horas,int64,Duración total.
+dataset_analitico.csv,precio,int64,Precio en pesos colombianos.
+dataset_analitico.csv,mes,object,Mes derivado de la fecha.
+dataset_analitico.csv,aprobado,bool,Verdadero si nota >= 3 y progreso >= 70.
+dataset_analitico.csv,valor_hora,float64,Precio dividido por duración.
+dataset_analitico.csv,ranking_nota,int32,Ranking denso descendente de la nota.
+dataset_analitico.csv,grupo_edad,category,Intervalo de edad.
